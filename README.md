@@ -25,7 +25,7 @@ Simple chat app using socket.io and React
 
 ## ✨ Feature
 
-✅ Add Custom Username 
+✅ Add Custom Username <br>
 ✅ Group Chatting 
 
 ---
@@ -57,9 +57,9 @@ Simple chat app using socket.io and React
 
 ## 📝 License
 
-This project license under MIT – ses LICENSE file for the details.
+This project license under MIT – see LICENSE file for the details.
 
 ## 📩 Contact
 
-📧 Email: [yusufroyan5@gmail.com](mailto:yusufroyan5@gmail.com)
-💼 LinkedIn: [www.linkedin.com/in/yusufroyan](www.linkedin.com/in/yusufroyan)
+📧 Email: [yusufroyan5@gmail.com](mailto:yusufroyan5@gmail.com)<br>
+💼 LinkedIn: [www.linkedin.com/in/yusufroyan](https://www.linkedin.com/in/yusufroyan)
